@@ -571,6 +571,15 @@ screenshots
 
 
 |<img width="980" height="209" alt="image" src="https://github.com/user-attachments/assets/16222f25-e985-4355-8425-2ba36c520ce7" />
+
+
+| 2     | 2A  | `./test_tree` output showing all tests passing                  |
+
+<img width="980" height="339" alt="image" src="https://github.com/user-attachments/assets/9ef84229-ca84-4a91-a0a7-5e96b091bbb5" />
+
+
+
+
  3     | 3A  | `pes init` → `pes add` → `pes status` sequence            
 
 <img width="375" height="423" alt="image" src="https://github.com/user-attachments/assets/c2a06408-0b91-4875-8c09-c42290251021" />
