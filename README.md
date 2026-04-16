@@ -595,6 +595,8 @@ screenshots
 
 <img width="885" height="206" alt="image" src="https://github.com/user-attachments/assets/5c4032ce-9c10-44f7-a3c2-a13fe117972b" />
 
+make integration
+<img width="790" height="576" alt="image" src="https://github.com/user-attachments/assets/0fa596c3-b1ef-4288-a6fd-7de2b4113bd0" />
 
 
 
