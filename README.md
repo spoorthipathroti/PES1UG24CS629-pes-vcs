@@ -529,7 +529,21 @@ The following questions cover filesystem concepts beyond the implementation scop
 
 ### Branching and Checkout
 
-**Q5.1:** A branch in Git is just a file in `.git/refs/heads/` containing a commit hash. Creating a branch is creating a file. Given this, how would you implement `pes checkout <branch>` — what files need to change in `.pes/`, and what must happen to the working directory? What makes this operation complex?
+**Q5.1:** A branch in Git is just a file in `.git/refs/heads/` containing a commit hash. Creating a branch is creating a file. Given this, how would you implement `pes checkout <branch>` — what files need to change in `.pes/`, and what must happen to the working directory? What makes this operation complex?pes checkout <branch>
+To implement pes checkout <branch>, the following steps are required:
+•	Update the .pes/HEAD file to point to the selected branch:
+ref: refs/heads/<branch>
+•	Read the commit hash from .pes/refs/heads/<branch> 
+•	Load the corresponding commit and its tree object 
+•	Update the working directory to match the tree: 
+o	Create new files 
+o	Update existing files 
+o	Delete files not present in the target tree 
+Complexity:
+This operation is complex because it must handle uncommitted changes, file conflicts, and ensure no data loss occurs while modifying the working directory.
+
+
+
 
 **Q5.2:** When switching branches, the working directory must be updated to match the target branch's tree. If the user has uncommitted changes to a tracked file, and that file differs between branches, checkout must refuse. Describe how you would detect this "dirty working directory" conflict using only the index and the object store.
 
