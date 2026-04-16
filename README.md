@@ -558,7 +558,14 @@ The following questions cover filesystem concepts beyond the implementation scop
 | 4     | 4A  | `pes log` output with three commits                            |
 | 4     | 4B  | `find .pes -type f \| sort` showing object growth              |
 | 4     | 4C  | `cat .pes/refs/heads/main` and `cat .pes/HEAD`                 |
-| Final | --  | Full integration test (`make test-integration`)                 |
+| Final | --  | Full integration test (`make test-integration`)                 
+
+
+screenshots
+| 1     | 1A  | `./test_objects` output showing all tests passing               |
+
+|<img width="980" height="209" alt="image" src="https://github.com/user-attachments/assets/16222f25-e985-4355-8425-2ba36c520ce7" />
+
 
 ### Code Files Required (5 files)
 
