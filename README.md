@@ -584,6 +584,13 @@ screenshots
 
 <img width="375" height="423" alt="image" src="https://github.com/user-attachments/assets/c2a06408-0b91-4875-8c09-c42290251021" />
 
+ 3     | 3B  | `cat .pes/index` showing the text-format index
+<img width="957" height="113" alt="image" src="https://github.com/user-attachments/assets/fd138284-7840-4f74-a16b-30ff062b77c5" />
+
+
+
+
+
 
 ### Code Files Required (5 files)
 
