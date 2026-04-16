@@ -591,6 +591,14 @@ screenshots
 <img width="886" height="401" alt="image" src="https://github.com/user-attachments/assets/144d0255-5969-42ad-bad2-a7af6c25691a" />
 
 
+| 4     | 4B  | `find .pes -type f \| sort` showing object growth              |
+
+<img width="885" height="206" alt="image" src="https://github.com/user-attachments/assets/5c4032ce-9c10-44f7-a3c2-a13fe117972b" />
+
+
+
+
+
 
 
 
