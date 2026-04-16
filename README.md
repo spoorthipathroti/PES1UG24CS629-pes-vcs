@@ -600,6 +600,10 @@ screenshots
 
 make integration
 <img width="790" height="576" alt="image" src="https://github.com/user-attachments/assets/0fa596c3-b1ef-4288-a6fd-7de2b4113bd0" />
+<img width="742" height="583" alt="image" src="https://github.com/user-attachments/assets/51df916e-631f-4138-8931-2f7e5321b8d7" />
+
+
+
 
 
 
