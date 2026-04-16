@@ -587,6 +587,11 @@ screenshots
  3     | 3B  | `cat .pes/index` showing the text-format index
 <img width="957" height="113" alt="image" src="https://github.com/user-attachments/assets/fd138284-7840-4f74-a16b-30ff062b77c5" />
 
+| 4     | 4A  | `pes log` output with three commits 
+<img width="886" height="401" alt="image" src="https://github.com/user-attachments/assets/144d0255-5969-42ad-bad2-a7af6c25691a" />
+
+
+
 
 
 
