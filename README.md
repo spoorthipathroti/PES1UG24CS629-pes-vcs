@@ -562,7 +562,13 @@ The following questions cover filesystem concepts beyond the implementation scop
 
 
 screenshots
-| 1     | 1A  | `./test_objects` output showing all tests passing               |
+| 1     | 1A  | `./test_objects` output showing all tests passing    
+<img width="818" height="113" alt="image" src="https://github.com/user-attachments/assets/5f4dca44-fb1a-4148-acf2-0af175272bb2" />
+
+
+
+|| 1     | 1B  | `find .pes/objects -type f` showing sharded directory structure |
+
 
 |<img width="980" height="209" alt="image" src="https://github.com/user-attachments/assets/16222f25-e985-4355-8425-2ba36c520ce7" />
  3     | 3A  | `pes init` → `pes add` → `pes status` sequence            
